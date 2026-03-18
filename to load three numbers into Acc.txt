@@ -1,0 +1,10 @@
+#include<reg.51>
+void main()
+{
+Acc=0x45;
+p1=Acc;
+Acc=0x34;
+p1=ACC;
+Acc=0x67;
+p1=Acc;
+;
